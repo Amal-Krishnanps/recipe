@@ -8,4 +8,5 @@ ghee : 200g
 carrot : 200g
 nuts : 200g
 onion : 1 kg
-spices
+spices : required
+chicken : 2kg
